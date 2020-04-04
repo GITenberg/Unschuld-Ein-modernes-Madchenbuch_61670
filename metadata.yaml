@@ -1,5 +1,8 @@
 _repo: Unschuld-Ein-modernes-Madchenbuch_61670
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 61670-h/images/cover.jpg
 creator:
   author:
     agent_name: Asenijeff, Elsa
@@ -12,6 +15,8 @@ creator:
     - https://en.wikipedia.org/wiki/Elsa_Asenijeff
     - https://de.wikipedia.org/wiki/Elsa_Asenijeff
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61670#Unschuld-Ein-modernes-Madchenbuch
 gutenberg_issued: '2020-03-24'
 gutenberg_type: Text
 identifiers:
