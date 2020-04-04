@@ -1,0 +1,34 @@
+_repo: Unschuld-Ein-modernes-Madchenbuch_61670
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Asenijeff, Elsa
+    alias: Packeny, Elsa Maria
+    birthdate: 1867
+    deathdate: 1941
+    gutenberg_agent_id: '51553'
+    url: http://www.gutenberg.org/2009/agents/51553
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Elsa_Asenijeff
+    - https://de.wikipedia.org/wiki/Elsa_Asenijeff
+description: ''
+gutenberg_issued: '2020-03-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61670'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Austrian fiction'
+- !lcc 'PT'
+- !lcsh 'Short stories, Austrian'
+- GITenberg
+tableOfContents: Einleitewort -- Heimlichkeiten -- Großstadtdunkel -- Mädchenklatsch
+  -- Ehe -- Bei den Volkssängern -- Allein -- Die drei Schwestern -- Tatjana -- Loras
+  Wirtschaftswoche -- Mütterchen erzählt! (Zwei Märchen) -- Tante Jola -- Am Waldweg
+  -- Was Mädchen nicht wissen sollen -- Mädchen und Weib. (Eine Plauderei) -- Kleines
+  Kind -- Ein Märchen -- Schulfreundinnen -- Und so seien wir geweiht.
+title: 'Unschuld: Ein modernes Mädchenbuch'
+url: http://www.gutenberg.org/ebooks/61670
